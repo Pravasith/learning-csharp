@@ -1,0 +1,14 @@
+/home/pravas/learning_csharp/bin/Debug/net7.0/learning_csharp
+/home/pravas/learning_csharp/bin/Debug/net7.0/learning_csharp.deps.json
+/home/pravas/learning_csharp/bin/Debug/net7.0/learning_csharp.runtimeconfig.json
+/home/pravas/learning_csharp/bin/Debug/net7.0/learning_csharp.dll
+/home/pravas/learning_csharp/bin/Debug/net7.0/learning_csharp.pdb
+/home/pravas/learning_csharp/obj/Debug/net7.0/learning_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/pravas/learning_csharp/obj/Debug/net7.0/learning_csharp.AssemblyInfoInputs.cache
+/home/pravas/learning_csharp/obj/Debug/net7.0/learning_csharp.AssemblyInfo.cs
+/home/pravas/learning_csharp/obj/Debug/net7.0/learning_csharp.csproj.CoreCompileInputs.cache
+/home/pravas/learning_csharp/obj/Debug/net7.0/learning_csharp.dll
+/home/pravas/learning_csharp/obj/Debug/net7.0/refint/learning_csharp.dll
+/home/pravas/learning_csharp/obj/Debug/net7.0/learning_csharp.pdb
+/home/pravas/learning_csharp/obj/Debug/net7.0/learning_csharp.genruntimeconfig.cache
+/home/pravas/learning_csharp/obj/Debug/net7.0/ref/learning_csharp.dll
